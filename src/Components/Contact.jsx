@@ -62,8 +62,7 @@ export default function Contact() {
               </div>
               {/* div 2 */}
               {/* div 2 */}
-              {/* div 2 */}
-              {/* div 2 */}
+          
               <div className="flex items-center gap-3 hover:cursor-pointer group">
                 <a href="https://github.com/murtaza-yaqobi" target="_blank">
                   <i className="fab fa-github bg-blue-600 group-hover:bg-blue-700 transition-colors p-3 rounded-[2px] text-white text-3xl"></i>
