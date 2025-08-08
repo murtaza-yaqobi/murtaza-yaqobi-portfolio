@@ -61,7 +61,6 @@ export default function Contact() {
                 </div>
               </div>
               {/* div 2 */}
-              {/* div 2 */}
           
               <div className="flex items-center gap-3 hover:cursor-pointer group">
                 <a href="https://github.com/murtaza-yaqobi" target="_blank">
