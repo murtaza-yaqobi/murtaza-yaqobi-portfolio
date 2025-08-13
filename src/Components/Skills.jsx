@@ -14,7 +14,7 @@ export default function Skills() {
     // "Responsive Design",
     // "Responsive Design",
     // "Responsive Design",
-    // "Responsive Design",
+
 
   ];
   return (
