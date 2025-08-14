@@ -13,7 +13,7 @@ export default function Skills() {
     // "Responsive Design",
     // "Responsive Design",
     // "Responsive Design",
-    // "Responsive Design",
+
   ];
   return (
     <section id="skills" className="bg-gray-100 py-20">
