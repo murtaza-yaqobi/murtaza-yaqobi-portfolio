@@ -14,7 +14,6 @@ export default function Navbar() {
             "skills",
             "projects",
             "contact",
-            <i className="fas fa-moon"></i>,
           ].map((link) => (
             <a
               key={link}
