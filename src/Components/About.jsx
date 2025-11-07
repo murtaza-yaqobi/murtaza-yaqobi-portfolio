@@ -24,7 +24,7 @@ export default function About() {
           <a
             href="/Murtaza Yaqobi CV.pdf"
             download
-            className="inline-block bg-blue-600 text-white font-medium text-lg px-6 py-3 rounded-[2px] hover:bg-blue-700 transition"
+            className="inline-block bg-blue-600 text-white md:px-3 p-2 md:py-3 py-2 rounded-[2px] font-medium md:text-lg text-sm hover:bg-blue-700 transition-all"
           >
             Download CV
           </a>

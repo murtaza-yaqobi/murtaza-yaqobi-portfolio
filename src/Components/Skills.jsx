@@ -8,8 +8,6 @@ export default function Skills() {
     { name: "Git & GitHub", img: "/Image/git.png" },
     { name: "Redux", img: "/Image/redux.png" },
     { name: "TypeScript", img: "/Image/ts.png" },
-    { name: "Responsive Design", img: "/Image/code.jpeg" },
-    { name: "Clean Code", img: "/Image/clean-code.jpeg" },
 
     // "Responsive Design",
   ];

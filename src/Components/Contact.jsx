@@ -77,9 +77,6 @@ export default function Contact() {
                 </a>
                 <div>
                   <h2 className="font-bold text-xl">Email Address</h2>
-                  <span className="text-lg font-medium">
-                    murtazayaqobi7@gmail.com
-                  </span>
                 </div>
               </div>
               {/* div 4 */}

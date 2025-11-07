@@ -80,8 +80,8 @@ export default function Projects() {
               <h3 className="text-xl font-semibold mb-2">{item.title}</h3>
               <p className="text-sm mb-4">{item.desc}</p>
               <div className="flex flex-row gap-3">
-                <i className="text-[19px] hover:cursor-pointer hover:text-blue-700 transition-all duration-500 fas fa-sign-in-alt -rotate-45"></i>
-                <i className="text-xl fab hover:cursor-pointer hover:text-blue-700 transition-all duration-500 fa-github text-black"></i>
+                <i className="text-[21px] hover:cursor-pointer hover:text-blue-700 transition-all duration-500 fas fa-sign-in-alt -rotate-45"></i>
+                <i className="text-[22px] fab hover:cursor-pointer hover:text-blue-700 transition-all duration-500 fa-github text-black"></i>
               </div>
             </div>
           </div>
