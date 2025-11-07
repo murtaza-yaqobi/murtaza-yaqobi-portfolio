@@ -29,7 +29,7 @@ export default function About() {
             Download CV
           </a>
         </div>
-        <p>Seconds: {seconds}</p>
+        {/* <p>Seconds: {seconds}</p> */}
       </div>
     </section>
   );
