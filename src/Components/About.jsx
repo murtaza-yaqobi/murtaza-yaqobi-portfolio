@@ -1,11 +1,11 @@
-import { useEffect, useState } from "react";
+// import { useEffect, useState } from "react";
 
 export default function About() {
-  const [seconds, setSeconds] = useState(0);
-  useEffect(() => {
-    const timer = setInterval(() => setSeconds((s) => s + 1), 1000);
-    return () => clearInterval(timer);
-  }, []);
+  // const [seconds, setSeconds] = useState(0);
+  // useEffect(() => {
+  //   const timer = setInterval(() => setSeconds((s) => s + 1), 1000);
+  //   return () => clearInterval(timer);
+  // }, []);
   return (
     <section id="about" className="max-w-6xl mx-auto px-4 py-20">
       <h2 className="text-3xl font-bold text-center mb-8">About Me</h2>
