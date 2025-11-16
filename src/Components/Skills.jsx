@@ -17,6 +17,8 @@ export default function Skills() {
         <h2 className="text-3xl font-bold text-center mb-8">
           My Skills and Services
         </h2>
+
+        
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
           {skills.map((item) => (
             <div
