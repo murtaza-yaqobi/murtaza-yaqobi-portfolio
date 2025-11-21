@@ -77,7 +77,7 @@ export default function Contact() {
                   <i className="fas fa-envelope bg-blue-600 group-hover:bg-blue-700 transition-colors p-3 rounded-[2px] text-white text-3xl"></i>
                 </a>
                 <div>
-                  
+                  <h2 className="font-bold text-xl">Email Address</h2>
                 </div>
               </div>
               {/* div 4 */}
