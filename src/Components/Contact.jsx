@@ -43,12 +43,7 @@ export default function Contact() {
         <h2 className="text-3xl font-bold text-center mb-8">Contact Me</h2>
         <div className="flex flex-col md:flex-row sm:items-start gap-10">
           <div className="w-[100%] md:w-[50%]">
-            <h3 className="text-2xl font-bold mb-4">Get In Touch</h3>
-            <p className="text-lg">
-              I'm always excited to connect and collaborate on new ideas,
-              projects, or opportunities. Whether you have a question, a project
-              proposal, or just want to say hello — feel free to reach out!
-            </p>
+            
             <div className="flex flex-col gap-3 mt-5">
               {/* div 1 */}
               <div className="flex items-center gap-3 hover:cursor-pointer group">
