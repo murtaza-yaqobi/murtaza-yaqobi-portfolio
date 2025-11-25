@@ -27,8 +27,6 @@ export default function About() {
         <h1>Hello, wrold!</h1>
         <h1>Hello, wrold!</h1>
         <h1>Hello, wrold!</h1>
-        <h1>Hello, wrold!</h1>
-        <h1>Hello, wrold!</h1>
       </div>
     </section>
   );
