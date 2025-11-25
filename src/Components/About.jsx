@@ -24,9 +24,7 @@ export default function About() {
         </div>
       </div>
       <div>
-        <h1>Hello, wrold!</h1>
-        <h1>Hello, wrold!</h1>
-        <h1>Hello, wrold!</h1>
+        
       </div>
     </section>
   );
