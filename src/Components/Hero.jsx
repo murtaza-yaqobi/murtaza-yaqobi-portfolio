@@ -15,7 +15,7 @@ export default function Hero() {
           href="#projects"
           className="inline-block bg-blue-600 text-white md:px-3 p-2 md:py-3 py-2 rounded-[2px] font-medium md:text-lg text-sm hover:bg-blue-700 transition-all"
         >
-          View My Work and view my skills
+          View My Work
         </a>
       </div>
       <div className="contianer-1 z-10 group">
