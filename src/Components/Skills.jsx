@@ -10,8 +10,6 @@ export default function Skills() {
     { name: "TypeScript", img: "/Image/ts.png" },
 
     // "Responsive Design",
-    // "Responsive Design",
-    // "Responsive Design",
   ];
   return (
     <section id="skills" className="bg-gray-100 py-20">
@@ -20,7 +18,6 @@ export default function Skills() {
           My Skills and Services
         </h2>
 
-        
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
           {skills.map((item) => (
             <div
