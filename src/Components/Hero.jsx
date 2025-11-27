@@ -29,5 +29,4 @@ export default function Hero() {
   );
 }
 
-// const [add, setAdd] =
-//   useState < { id: Number, name: string } > { id: 0, nmae: "Ali" };
+
