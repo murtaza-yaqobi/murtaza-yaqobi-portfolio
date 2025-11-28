@@ -52,8 +52,6 @@ export default function Contact() {
             <div className="flex flex-col gap-3 mt-5">
               {/* div 1 */}
 
-
-              
               <div className="flex items-center gap-3 hover:cursor-pointer group">
                 <a href="https://wa.me/+93 794937132" target="_blank">
                   <i className="fab fa-whatsapp bg-blue-600 group-hover:bg-blue-700 transition-colors p-3 rounded-[2px] text-white text-3xl"></i>
