@@ -14,8 +14,6 @@ export default function Navbar() {
             "skills",
             "projects",
             "contact",
-            "contact",
-            "contact",
           ].map((link) => (
             <a
               key={link}
