@@ -9,7 +9,6 @@ export default function Skills() {
     { name: "Redux", img: "/Image/redux.png" },
     { name: "TypeScript", img: "/Image/ts.png" },
 
-  
   ];
   return (
     <section id="skills" className="bg-gray-100 py-20">
