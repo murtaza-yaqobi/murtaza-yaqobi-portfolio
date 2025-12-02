@@ -5,5 +5,6 @@ export default function Footer() {
         © 2025 <strong>Murtaza Yaqobi</strong>. All rights reserved.
       </p>
     </footer>
+    
   );
 }
