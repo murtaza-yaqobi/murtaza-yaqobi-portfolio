@@ -26,7 +26,7 @@ export default function Hero() {
         />
         <h1>j</h1>
         <h1>j</h1>
-        <h1>j</h1>
+    
       </div>
     </section>
   );
