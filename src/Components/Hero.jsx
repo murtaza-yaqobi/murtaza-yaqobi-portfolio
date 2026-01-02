@@ -24,6 +24,9 @@ export default function Hero() {
           src="./Image/me1.jpg"
           alt="Murtaza Yaqobi"
         />
+        <h1>j</h1>
+        <h1>j</h1>
+        <h1>j</h1>
       </div>
     </section>
   );
