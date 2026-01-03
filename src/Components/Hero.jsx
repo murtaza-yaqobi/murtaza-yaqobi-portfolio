@@ -25,7 +25,6 @@ export default function Hero() {
           alt="Murtaza Yaqobi"
         />
         <h1>j</h1>
-        <h1>j</h1>
       </div>
     </section>
   );
