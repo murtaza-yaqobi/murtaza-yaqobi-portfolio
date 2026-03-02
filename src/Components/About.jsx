@@ -27,7 +27,7 @@ export default function About() {
 
 
 
-      <div>hi</div>
+    
     </section>
   );
 }
