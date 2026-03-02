@@ -23,11 +23,6 @@ export default function About() {
           </a>
         </div>
       </div>
-
-
-
-
-    
     </section>
   );
 }
