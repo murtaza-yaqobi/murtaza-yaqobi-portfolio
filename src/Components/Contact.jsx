@@ -49,6 +49,8 @@ export default function Contact() {
               projects, or opportunities. Whether you have a question, a project
               proposal, or just want to say hello — feel free to reach out!
             </p>
+
+            
             <div className="flex flex-col gap-3 mt-5">
               {/* div 1 */}
               <div className="flex items-center gap-3 hover:cursor-pointer group">
