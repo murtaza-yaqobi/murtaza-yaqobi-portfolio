@@ -4,6 +4,10 @@ export default function Footer() {
       <p>
         © 2025 <strong>Murtaza Yaqobi</strong>. All rights reserved.
       </p>
+      <h1>HI</h1>
+      <h1>HI</h1>
+      <h1>HI</h1>
+      <h1>HI</h1>
     </footer>
     
   );
